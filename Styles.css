@@ -1,0 +1,63 @@
+
+  body {
+      background:rgb(30,30,40);
+      max-width:500px; 
+      margin:50px auto;
+      }
+
+  form { max-width:420px; 
+         margin:50px auto; 
+         padding-top: 50px;
+         padding-left: 50px;
+         padding-right: 50px;
+         padding-bottom: 50px;
+         border-radius: 20px;
+         background-color: azure;}
+  
+  input[type="text"], input [type="submit"], textarea {
+     box-sizing: border-box;
+     display: block;
+     width:100%;
+     height:50px;
+     padding: 12px;
+     border: 1px solid rgb(181, 181, 194);
+     border-radius: 4px; 
+     margin-top: 6px;
+     margin-bottom: 16px;
+     resize: vertical;}
+  
+  input[type="submit"] {
+    background:#522cdd;
+    cursor:pointer;
+    color:rgb(10, 10, 10);
+    font-size:24px;
+    box-sizing: border-box;
+    display: block;
+    width:100%;
+    height:50px;
+    padding: 12px;
+    border: 1px solid rgb(181, 181, 194);
+    border-radius: 4px; 
+    margin-top: 6px;
+    margin-bottom: 16px;
+    resize: vertical;
+    font-weight:700;
+  }
+  .gender {
+    box-sizing: border-box;
+    display: block;
+    width:100%;
+    height:50px;
+    padding: 12px;
+    border: 1px solid rgb(181, 181, 194);
+    border-radius: 4px; 
+    margin-top: 6px;
+    margin-bottom: 16px;
+    resize: vertical;}
+  input[type="submit"]:hover { background:#9b9dec; }
+  
+  .container {
+    border-radius: 5px;
+    background-color: #e5e3ee;
+    padding: 20px;
+  }
