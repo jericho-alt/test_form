@@ -2,7 +2,7 @@
 <html>
 <head>
 	<title> Case Study#2 </title>
-    <link rel="Stylesheet" href="CSS/Styles.css">
+    <link rel="Stylesheet" href="Styles.css">
 </head>
 <body>
 
